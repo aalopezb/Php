@@ -16,8 +16,8 @@ php/ <br>
 ## 🚀 How to Run
 
 ### 1. Build the Docker Image
-docker build -t hello_php .
-docker run -p 80:80 hello_php
+docker build -t hello_php .<br>
+docker run -p 80:80 hello_php<br>
 Open your browser and navigate to: http://localhost
 
 ## Creator
